@@ -1,0 +1,14 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\obj\Debug\StatePedido.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\obj\Debug\StatePedido.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\bin\Debug\StatePedido.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\bin\Debug\StatePedido.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\bin\Debug\StatePedido.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\bin\Debug\Business.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\bin\Debug\Entity.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\bin\Debug\Datos.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\bin\Debug\Business.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\bin\Debug\Entity.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\bin\Debug\Datos.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\obj\Debug\StatePed.5C63BBD2.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\obj\Debug\StatePedido.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\obj\Debug\StatePedido.pdb

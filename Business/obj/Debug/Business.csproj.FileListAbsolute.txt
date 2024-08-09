@@ -1,0 +1,11 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\bin\Debug\Business.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\bin\Debug\Business.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\bin\Debug\Datos.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\bin\Debug\Entity.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\bin\Debug\Datos.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\bin\Debug\Entity.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\obj\Debug\Business.csproj.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\obj\Debug\Business.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\StatePatron\StatePedido\Business\obj\Debug\Business.pdb
